@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shahil-Patel-3602
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning GitHub, Pyhton, Data Science
+- 🌱 I’m currently learning Web-development, Git, GitHub, Python, Data Science and AI
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me: shahil.techno@gmail.com
 
